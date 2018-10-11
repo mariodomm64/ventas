@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 </div>
                                 <!-- Logo End -->
 
-                                <form action="#" method="post">
+                                <form action="<?=base_url()?>main" method="post">
                                     <label class="m-account--title">Ingresa a tu cuenta</label>
 
                                     <div class="form-group">

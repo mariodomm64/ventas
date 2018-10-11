@@ -370,7 +370,7 @@ Author URI  : https://themeforest.net/user/themelooks
             $recordsListView.DataTable({
                 responsive: true,
                 language: {
-                    "lengthMenu": "View _MENU_ records"
+                    "lengthMenu": "Viendo _MENU_ entradas"
                 },
                 dom: '<"topbar"<"toolbar"><"right"li>><"table-responsive"t>p',
                 order: [],
